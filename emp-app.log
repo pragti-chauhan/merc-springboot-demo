@@ -1,0 +1,18 @@
+2023-10-27T01:02:54.592+05:30  INFO 16452 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 9 class path changes (0 additions, 4 deletions, 5 modifications)
+2023-10-27T01:02:54.971+05:30  INFO 16452 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-27T01:02:54.982+05:30  INFO 16452 --- [Thread-11] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-10-27T01:02:55.125+05:30  INFO 16452 --- [restartedMain] com.merc.demo.App                        : Start
+2023-10-27T01:05:32.601+05:30  INFO 16452 --- [restartedMain] com.merc.demo.App                        : Starting App using Java 17.0.8.1 with PID 16452 (C:\merc-java-ws\merc-springboot-demo\target\classes started by PRACHAU in C:\merc-java-ws\merc-springboot-demo)
+2023-10-27T01:05:32.602+05:30  INFO 16452 --- [restartedMain] com.merc.demo.App                        : No active profile set, falling back to 1 default profile: "default"
+2023-10-27T01:05:32.899+05:30  INFO 16452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-10-27T01:05:32.901+05:30  INFO 16452 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-27T01:05:32.902+05:30  INFO 16452 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-10-27T01:05:32.942+05:30  INFO 16452 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-27T01:05:32.942+05:30  INFO 16452 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 333 ms
+2023-10-27T01:05:33.043+05:30  INFO 16452 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-27T01:05:33.065+05:30  INFO 16452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-27T01:05:33.069+05:30  INFO 16452 --- [restartedMain] com.merc.demo.App                        : Started App in 0.515 seconds (process running for 52718.878)
+2023-10-27T01:05:33.074+05:30  INFO 16452 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-27T01:06:34.733+05:30  INFO 16452 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-27T01:06:34.754+05:30  INFO 16452 --- [Thread-27] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-27T01:06:34.804+05:30  INFO 16452 --- [restartedMain] com.merc.demo.App                        : Start
